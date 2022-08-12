@@ -5,7 +5,7 @@
 
 # Pokemon API
 
-> This project is JavaScript web application, Made with vanilla HTML,CSS and JavScript, The topic about POKEMONS so we get pokemons from API and display it with the ability to Add your insights in any pokemon you want. 🌌🦎🤓
+> This project is JavaScript web application. Made with vanilla HTML,CSS and JavScript, The topic about POKEMONS so we get pokemons from API and display it with the ability to add your insights in any pokemon you want. 🌌🦎🤓
 
 
 
